@@ -71,11 +71,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
-
-What is the main advantage of automating configuration with Ansible?
-
-Ansible is able to deploy quickly and it performs all functions over SSH, so it does not require agent installation. Ansible playbook is a script file which contains all the tasks that need to be performed along with all the commands required to perform these tasks. They are a simple way to automate mundane tasks and reuse scripts.  
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because Ansible is able to deploy quickly and it performs all functions over SSH, so it does not require agent installation. Ansible playbook is a script file which contains all the tasks that need to be performed along with all the commands required to perform these tasks. They are a simple way to automate mundane tasks and reuse scripts.  
 
 The playbook implements the following tasks:
 
